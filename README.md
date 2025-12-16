@@ -40,6 +40,16 @@ com.conversor
 
 ---
 
+## 🔐 Configuración de la API Key
+
+Antes de ejecutar la aplicación, definir la variable de entorno:
+
+EXCHANGE_API_KEY=tu_api_key
+
+La clave no se incluye en el repositorio por razones de seguridad.
+
+---
+
 ## 🚀 Ejecución del proyecto
 
 ### Compilar
